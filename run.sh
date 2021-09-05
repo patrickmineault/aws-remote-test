@@ -1,2 +1,1 @@
-which pip
-pip install seaborn
+python -c "import this"
