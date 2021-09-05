@@ -1,4 +1,4 @@
 #!/bin/bash
 ls -al /tmp
 ls -al /tmp/repo
-python -c "import this"
+/opt/conda/bin/python -c "import this"
