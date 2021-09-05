@@ -1,1 +1,1 @@
-echo "Remote test successful."
+pip install seaborn
